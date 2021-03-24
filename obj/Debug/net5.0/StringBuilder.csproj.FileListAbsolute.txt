@@ -1,0 +1,5 @@
+C:\Users\user\Projetos\ProjetosC#\StringBuilder\obj\Debug\net5.0\StringBuilder.csprojAssemblyReference.cache
+C:\Users\user\Projetos\ProjetosC#\StringBuilder\obj\Debug\net5.0\StringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Projetos\ProjetosC#\StringBuilder\obj\Debug\net5.0\StringBuilder.AssemblyInfoInputs.cache
+C:\Users\user\Projetos\ProjetosC#\StringBuilder\obj\Debug\net5.0\StringBuilder.AssemblyInfo.cs
+C:\Users\user\Projetos\ProjetosC#\StringBuilder\obj\Debug\net5.0\StringBuilder.csproj.CoreCompileInputs.cache
