@@ -1,8 +1,8 @@
 ﻿using System;
-using StringBuilder.Entities;
+using ExStringBuilder.Entities;
 
 
-namespace StringBuilder
+namespace ExStringBuilder
 {
     class Program
     {

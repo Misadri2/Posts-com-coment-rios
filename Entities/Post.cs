@@ -1,10 +1,10 @@
 using System;
 using System.Collections.Generic;
+using System.Text;
 
-
-namespace StringBuilder.Entities
+namespace ExStringBuilder.Entities
 {
-        public class Post
+        class Post
         {
         public DateTime Moment { get; set; }
         public string Title { get; set; }
@@ -15,7 +15,6 @@ namespace StringBuilder.Entities
         public Post()
         {
         }
-
         public Post(DateTime moment, string title, string content, int likes)
         {
             Moment = moment;
